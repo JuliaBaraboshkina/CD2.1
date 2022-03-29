@@ -1,5 +1,8 @@
 
 # Отчет по Лабораторной работе "CD2.1. Стили"
 
-**App.js**
-![image](https://user-images.githubusercontent.com/90133237/160713746-57ce4e72-fd4e-4946-abdd-3a0232045b40.png)
+**Демонстрация работы приложения:**
+
+![cd21](https://user-images.githubusercontent.com/90133237/160714025-d53b78b7-73c0-41e6-8697-470206fb676c.jpg)
+
+
