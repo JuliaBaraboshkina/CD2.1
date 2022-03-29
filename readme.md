@@ -3,6 +3,6 @@
 
 **Демонстрация работы приложения:**
 
-![cd21](https://user-images.githubusercontent.com/90133237/160714025-d53b78b7-73c0-41e6-8697-470206fb676c.jpg)
+<img src="https://user-images.githubusercontent.com/90133237/160714025-d53b78b7-73c0-41e6-8697-470206fb676c.jpg" width="200" />
 
 
