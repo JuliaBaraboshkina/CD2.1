@@ -11,7 +11,7 @@
 
 1. Приведите аналоги тегов html в React Native
 
-<div>-<View>; <p>-<Text>; <img>-<Image>; <button>-<Button>
+![image](https://user-images.githubusercontent.com/90133237/160715264-5649a8dc-c943-49fd-998b-5a648d5d6d8d.png)
 
 
 
